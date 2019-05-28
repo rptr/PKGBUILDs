@@ -32,7 +32,7 @@ makedepends=('curl>=7.20.0' 'hunspell>=1.2.8' 'python>=3.7' 'libwpd>=0.9.2' 'lib
 	'desktop-file-utils' 'shared-mime-info' 'gtk2' 'gst-plugins-base-libs'
 	'sane' 'perl-archive-zip' 'zip' 'unzip' 'unixodbc' 'ant'
 	'gperf' 'gtk3' 'qt5-base' 'plasma-framework' 'cppunit' 'beanshell' 'clucene'
-	'junit' 'libmythes' 'libwpg'  'java-environment=8' 'postgresql-libs' 'mariadb-libs' 'libgl'
+	'junit' 'libmythes' 'libwpg'  'java-environment=8' 'postgresql-libs' 'mariadb-libs'
 	'bluez-libs' 'gdb' 'doxygen'  'libatomic_ops'  'mdds'
 	'apr' 'serf' 'ttf-liberation' 'ttf-dejavu' 'ttf-carlito' 'libxinerama' 'libpagemaker' 'glm'
 	'libabw' 'libmwaw' 'libe-book' 'coin-or-mp' 'liblangtag' 'liborcus' 
